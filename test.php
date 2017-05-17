@@ -15,4 +15,5 @@ $select=$gpdb->gp_select_all('tb_admin');
 echo "<xmp>";
 print_r($select);
 echo "</xmp>";
+°¡°¡
 ?>
